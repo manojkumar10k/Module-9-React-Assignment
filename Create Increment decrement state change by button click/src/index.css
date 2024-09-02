@@ -1,0 +1,30 @@
+body{
+  background:rgb(25, 66, 169);
+}
+
+h1,h2{
+  text-align: center;
+  color: white;
+  font-size: 50px;
+}
+h2{
+  color: red;
+}
+.btn2{
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+  
+}
+.btn{
+  display: flex;
+  justify-content: center;
+  margin: 15px;
+}
+button{
+  background: rgb(84, 137, 44);
+  color: white;
+  border: 0px;
+  padding: 10px;
+
+}
